@@ -87,11 +87,29 @@ let questions = [
       "ceil(x, y)"
     ]
   },
+  {
+    numb: 9,
+    question: "Which operator is used to assign a value to a variable?",
+    answer: "=",
+    options: [
+      "+",
+      "*",
+      "%",
+      "="
+    ]
+  },
   
 ];
 
 
-
+//   "question": "Which operator is used to assign a value to a variable?",
+//   "options": [
+//   {
+//   "a": "*",
+//   "b": "-",
+//   "c": "=",
+//   "d": "x"
+//   }
 
 // ***********************************
 
