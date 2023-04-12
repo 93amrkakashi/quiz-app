@@ -98,18 +98,26 @@ let questions = [
       "="
     ]
   },
+  {
+    numb: 10,
+    question: "What will the following code return: Boolean(10 &gt; 9)",
+    answer: "true",
+    options: [
+      "false",
+      "true",
+      "NAN",
+      "null"
+    ]
+  },
   
 ];
 
-
-//   "question": "Which operator is used to assign a value to a variable?",
+//   "question": "What will the following code return: Boolean(10 &gt; 9)",
 //   "options": [
 //   {
-//   "a": "*",
-//   "b": "-",
-//   "c": "=",
-//   "d": "x"
-//   }
+//   "a": "NaN",
+//   "b": "false",
+//   "c": "true"
 
 // ***********************************
 
